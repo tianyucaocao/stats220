@@ -22,3 +22,7 @@ Here are some helpful websites:
 ## A Meme to Reflect My Feelings
 A meme that captures how I currently feel about my university studies is ![Study meme](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxpaGZya3pybmdvbjlkM2t2YW5lZWRtdGo0bTg3NWtoanU0NWRxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif)
 
+## About Project1
+1.  Create memes with {magick}.
+2.  Create HTML with RMarkdown.
+3.  Stylize pages with CSS.
